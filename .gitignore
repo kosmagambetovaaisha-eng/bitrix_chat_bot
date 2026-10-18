@@ -1,0 +1,13 @@
+# секреты, данные и реальные имена: в репозиторий не попадают
+env.txt
+.env
+*.sqlite
+*.sqlite-journal
+*.db
+names.txt
+schedule.txt
+CLAUDE.md
+FORWARDING.md
+__pycache__/
+*.pyc
+.DS_Store
